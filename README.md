@@ -27,4 +27,3 @@ prioritize the patients and make improvements in their medicines so as to increa
 4. Once all packages are installed, run the following command:
 > streamlit run app.py
 
-If facing any issues, [contact me](mailto:mahimkaradi@gmail.com)
